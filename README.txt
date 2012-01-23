@@ -1,0 +1,1 @@
+This project is related to a small assignment for creating tests. Toy code.
